@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=60845
+cliente=MANOELA REZENDE VASCONCELOS
+tipo=Residencial
+
+## Dados de consumo
+leitura_atual=61
+leitura_anterior=1
+consumo_faturado=60.0
+media=70
+
+## Conta de energia eletrica
+valor_energia=27,00
+icms=12,00
+valor_conta=30,24
+

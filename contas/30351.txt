@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=30351
+cliente=IRENE DE FERREIRA
+tipo=Residencial
+
+## Dados de consumo
+leitura_atual=963
+leitura_anterior=860
+consumo_faturado=103.0
+media=112
+
+## Conta de energia eletrica
+valor_energia=46,35
+icms=12,00
+valor_conta=51,91
+

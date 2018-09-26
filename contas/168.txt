@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=168
+cliente=ESQUADRIAS DE ALUMINIO 3J LTDA ME
+tipo=Comercial
+
+## Dados de consumo
+leitura_atual=371
+leitura_anterior=267
+consumo_faturado=104.0
+media=110
+
+## Conta de energia eletrica
+valor_energia=58,24
+icms=14,00
+valor_conta=66,39
+

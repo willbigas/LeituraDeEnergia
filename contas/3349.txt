@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=3349
+cliente=MANOSSO IND. E COM. LTDA.
+tipo=Industrial
+
+## Dados de consumo
+leitura_atual=727
+leitura_anterior=520
+consumo_faturado=207.0
+media=203
+
+## Conta de energia eletrica
+valor_energia=149,04
+icms=15,50
+valor_conta=172,14
+

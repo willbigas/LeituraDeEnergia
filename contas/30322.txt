@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=30322
+cliente=ROSA MAZZINI PUIA
+tipo=Residencial
+
+## Dados de consumo
+leitura_atual=331
+leitura_anterior=215
+consumo_faturado=116.0
+media=114
+
+## Conta de energia eletrica
+valor_energia=52,20
+icms=12,00
+valor_conta=58,46
+

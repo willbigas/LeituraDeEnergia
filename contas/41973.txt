@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=41973
+cliente=LUIS ALBERTO DA SILVA SANTOS
+tipo=Residencial
+
+## Dados de consumo
+leitura_atual=363
+leitura_anterior=284
+consumo_faturado=79.0
+media=76
+
+## Conta de energia eletrica
+valor_energia=35,55
+icms=12,00
+valor_conta=39,82
+

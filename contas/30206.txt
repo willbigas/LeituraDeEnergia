@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=30206
+cliente=GERSON GOMES DE SOUZA
+tipo=Residencial
+
+## Dados de consumo
+leitura_atual=391
+leitura_anterior=282
+consumo_faturado=109.0
+media=110
+
+## Conta de energia eletrica
+valor_energia=49,05
+icms=12,00
+valor_conta=54,94
+

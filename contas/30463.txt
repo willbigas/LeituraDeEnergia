@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=30463
+cliente=EDNA ROSA DE SOUZA
+tipo=Residencial
+
+## Dados de consumo
+leitura_atual=929
+leitura_anterior=893
+consumo_faturado=36.0
+media=37
+
+## Conta de energia eletrica
+valor_energia=16,20
+icms=12,00
+valor_conta=18,14
+

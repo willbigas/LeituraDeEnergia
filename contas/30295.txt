@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=30295
+cliente=ELZA BARBOSA MENDES
+tipo=Residencial
+
+## Dados de consumo
+leitura_atual=835
+leitura_anterior=803
+consumo_faturado=32.0
+media=33
+
+## Conta de energia eletrica
+valor_energia=14,40
+icms=12,00
+valor_conta=16,13
+

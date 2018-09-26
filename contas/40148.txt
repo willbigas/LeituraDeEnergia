@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=40148
+cliente=PRISCILA APARECIDA SOARES
+tipo=Residencial
+
+## Dados de consumo
+leitura_atual=100
+leitura_anterior=34
+consumo_faturado=66.0
+media=74
+
+## Conta de energia eletrica
+valor_energia=29,70
+icms=12,00
+valor_conta=33,26
+

@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=20433
+cliente=CEMIT�RIO NOVA VIDA LTDA
+tipo=Comercial
+
+## Dados de consumo
+leitura_atual=778
+leitura_anterior=665
+consumo_faturado=113.0
+media=112
+
+## Conta de energia eletrica
+valor_energia=63,28
+icms=14,00
+valor_conta=72,14
+

@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=34074
+cliente=EUROPA IMPORTADORA E EXPORTADORA LTDA
+tipo=Comercial
+
+## Dados de consumo
+leitura_atual=427
+leitura_anterior=327
+consumo_faturado=100.0
+media=110
+
+## Conta de energia eletrica
+valor_energia=56,00
+icms=14,00
+valor_conta=63,84
+

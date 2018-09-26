@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=19084
+cliente=GERALDO ASSIS NOGUEIRA
+tipo=Residencial
+
+## Dados de consumo
+leitura_atual=321
+leitura_anterior=257
+consumo_faturado=64.0
+media=70
+
+## Conta de energia eletrica
+valor_energia=28,80
+icms=12,00
+valor_conta=32,26
+

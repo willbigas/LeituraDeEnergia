@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=30562
+cliente=JOAQUIM CASTRO
+tipo=Residencial
+
+## Dados de consumo
+leitura_atual=39
+leitura_anterior=19
+consumo_faturado=30.0
+media=30
+
+## Conta de energia eletrica
+valor_energia=13,50
+icms=12,00
+valor_conta=15,12
+

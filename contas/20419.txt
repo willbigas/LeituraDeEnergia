@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=20419
+cliente=SAMIRA REPRESENTA��ES LTDA
+tipo=Comercial
+
+## Dados de consumo
+leitura_atual=3834
+leitura_anterior=3734
+consumo_faturado=100.0
+media=110
+
+## Conta de energia eletrica
+valor_energia=56,00
+icms=14,00
+valor_conta=63,84
+

@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=30342
+cliente=FRANCISCO DE SANTANA
+tipo=Residencial
+
+## Dados de consumo
+leitura_atual=1410
+leitura_anterior=1344
+consumo_faturado=66.0
+media=70
+
+## Conta de energia eletrica
+valor_energia=29,70
+icms=12,00
+valor_conta=33,26
+

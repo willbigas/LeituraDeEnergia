@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=54259
+cliente=CRISTOFER EMPREENDIMENTOS E PARTIC LTDA
+tipo=Comercial
+
+## Dados de consumo
+leitura_atual=4152
+leitura_anterior=4200
+consumo_faturado=206.0
+media=206
+
+## Conta de energia eletrica
+valor_energia=115,36
+icms=14,00
+valor_conta=131,51
+

@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=22056
+cliente=SUELI ALMEIDA SOUZA
+tipo=Residencial
+
+## Dados de consumo
+leitura_atual=157
+leitura_anterior=95
+consumo_faturado=62.0
+media=70
+
+## Conta de energia eletrica
+valor_energia=27,90
+icms=12,00
+valor_conta=31,25
+

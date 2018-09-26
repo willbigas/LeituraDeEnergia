@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=7824
+cliente=HOSPITAL E MATERNIDADE MUNICIPAL LTDA
+tipo=Industrial
+
+## Dados de consumo
+leitura_atual=2321
+leitura_anterior=2156
+consumo_faturado=165.0
+media=178
+
+## Conta de energia eletrica
+valor_energia=118,80
+icms=15,50
+valor_conta=137,21
+

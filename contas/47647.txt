@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=47647
+cliente=DALLAS POSTO LTDA.
+tipo=Comercial
+
+## Dados de consumo
+leitura_atual=9776
+leitura_anterior=9640
+consumo_faturado=136.0
+media=136
+
+## Conta de energia eletrica
+valor_energia=76,16
+icms=14,00
+valor_conta=86,82
+

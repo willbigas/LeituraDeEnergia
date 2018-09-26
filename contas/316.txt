@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=316
+cliente=DROGARIA SANTA LUZIA ME
+tipo=Comercial
+
+## Dados de consumo
+leitura_atual=139
+leitura_anterior=20
+consumo_faturado=119.0
+media=112
+
+## Conta de energia eletrica
+valor_energia=66,64
+icms=14,00
+valor_conta=75,97
+

@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=327
+cliente=GUID�O MOTOS LTDA
+tipo=Comercial
+
+## Dados de consumo
+leitura_atual=107
+leitura_anterior=2
+consumo_faturado=105.0
+media=110
+
+## Conta de energia eletrica
+valor_energia=58,80
+icms=14,00
+valor_conta=67,03
+

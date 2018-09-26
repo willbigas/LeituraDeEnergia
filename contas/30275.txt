@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=30275
+cliente=MARLENE ROSSI PEREIRA
+tipo=Residencial
+
+## Dados de consumo
+leitura_atual=188
+leitura_anterior=161
+consumo_faturado=30.0
+media=30
+
+## Conta de energia eletrica
+valor_energia=13,50
+icms=12,00
+valor_conta=15,12
+

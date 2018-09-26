@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=54501
+cliente=MARIA APARECIDA CALDAS
+tipo=Residencial
+
+## Dados de consumo
+leitura_atual=727
+leitura_anterior=651
+consumo_faturado=76.0
+media=78
+
+## Conta de energia eletrica
+valor_energia=34,20
+icms=12,00
+valor_conta=38,30
+

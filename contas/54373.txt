@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=54373
+cliente=MDF INCORPORADORA LTDA
+tipo=Comercial
+
+## Dados de consumo
+leitura_atual=150
+leitura_anterior=50
+consumo_faturado=100.0
+media=110
+
+## Conta de energia eletrica
+valor_energia=56,00
+icms=14,00
+valor_conta=63,84
+

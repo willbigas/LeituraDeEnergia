@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=54194
+cliente=BETONEIRA COM DE MAT CONSTRU��O LTDA
+tipo=Comercial
+
+## Dados de consumo
+leitura_atual=1222
+leitura_anterior=1106
+consumo_faturado=116.0
+media=118
+
+## Conta de energia eletrica
+valor_energia=64,96
+icms=14,00
+valor_conta=74,05
+

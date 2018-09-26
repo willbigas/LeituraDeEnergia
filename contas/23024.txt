@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=23024
+cliente=MARIA NADIR DE MATTOS
+tipo=Residencial
+
+## Dados de consumo
+leitura_atual=390
+leitura_anterior=316
+consumo_faturado=74.0
+media=72
+
+## Conta de energia eletrica
+valor_energia=33,30
+icms=12,00
+valor_conta=37,30
+

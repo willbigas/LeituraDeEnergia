@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=49011
+cliente=JOAQUIM ANDRADE DA SILVA
+tipo=Residencial
+
+## Dados de consumo
+leitura_atual=1659
+leitura_anterior=1624
+consumo_faturado=35.0
+media=34
+
+## Conta de energia eletrica
+valor_energia=15,75
+icms=12,00
+valor_conta=17,64
+

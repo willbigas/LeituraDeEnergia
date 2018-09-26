@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=1638
+cliente=220 FIOS E CABOS LTDA EPP
+tipo=Industrial
+
+## Dados de consumo
+leitura_atual=1083
+leitura_anterior=903
+consumo_faturado=180.0
+media=178
+
+## Conta de energia eletrica
+valor_energia=129,60
+icms=15,50
+valor_conta=149,69
+

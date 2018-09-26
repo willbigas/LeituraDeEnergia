@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=5084
+cliente=PINTA E BORDA CONFEC�OES LTDA
+tipo=Industrial
+
+## Dados de consumo
+leitura_atual=2986
+leitura_anterior=2813
+consumo_faturado=173.0
+media=176
+
+## Conta de energia eletrica
+valor_energia=124,56
+icms=15,50
+valor_conta=143,87
+

@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=3124
+cliente=CND-BIT PARTICIPA��ES LTDA
+tipo=Industrial
+
+## Dados de consumo
+leitura_atual=4367
+leitura_anterior=4201
+consumo_faturado=166.0
+media=175
+
+## Conta de energia eletrica
+valor_energia=119,52
+icms=15,50
+valor_conta=138,05
+

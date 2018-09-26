@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=2174
+cliente=INDUSTRIA MECANICA LNB LTDA
+tipo=Industrial
+
+## Dados de consumo
+leitura_atual=1728
+leitura_anterior=1493
+consumo_faturado=235.0
+media=239
+
+## Conta de energia eletrica
+valor_energia=169,20
+icms=15,50
+valor_conta=195,43
+

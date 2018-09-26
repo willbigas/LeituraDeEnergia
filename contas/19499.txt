@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=19499
+cliente=PRISCILA DE BRANCO DEM�TRIO
+tipo=Residencial
+
+## Dados de consumo
+leitura_atual=2348
+leitura_anterior=2260
+consumo_faturado=88.0
+media=70
+
+## Conta de energia eletrica
+valor_energia=39,60
+icms=12,00
+valor_conta=44,35
+

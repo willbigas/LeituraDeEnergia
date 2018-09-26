@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=49003
+cliente=VALQUIRIA OLIVEIRA FERNANDES
+tipo=Residencial
+
+## Dados de consumo
+leitura_atual=1024
+leitura_anterior=1003
+consumo_faturado=30.0
+media=30
+
+## Conta de energia eletrica
+valor_energia=13,50
+icms=12,00
+valor_conta=15,12
+

@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=4
+cliente=POSTO COELHOS LTDA
+tipo=Comercial
+
+## Dados de consumo
+leitura_atual=1544
+leitura_anterior=1424
+consumo_faturado=120.0
+media=130
+
+## Conta de energia eletrica
+valor_energia=67,20
+icms=14,00
+valor_conta=76,61
+

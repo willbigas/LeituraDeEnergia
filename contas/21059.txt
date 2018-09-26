@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=21059
+cliente=�LCIO CAMPOS DOS REIS
+tipo=Residencial
+
+## Dados de consumo
+leitura_atual=2545
+leitura_anterior=2513
+consumo_faturado=32.0
+media=32
+
+## Conta de energia eletrica
+valor_energia=14,40
+icms=12,00
+valor_conta=16,13
+

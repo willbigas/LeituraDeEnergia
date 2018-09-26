@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=22897
+cliente=BRUNA APARECIDA ALVES
+tipo=Residencial
+
+## Dados de consumo
+leitura_atual=1920
+leitura_anterior=2869
+consumo_faturado=71.0
+media=71
+
+## Conta de energia eletrica
+valor_energia=31,95
+icms=12,00
+valor_conta=35,78
+

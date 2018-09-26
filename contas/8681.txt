@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=8681
+cliente=CARLOS ASSUN��O
+tipo=Residencial
+
+## Dados de consumo
+leitura_atual=1165
+leitura_anterior=1101
+consumo_faturado=64.0
+media=72
+
+## Conta de energia eletrica
+valor_energia=28,80
+icms=12,00
+valor_conta=32,26
+

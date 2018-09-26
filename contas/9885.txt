@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=9885
+cliente=EDISON ASSUN��O DE OLIVEIRA
+tipo=Residencial
+
+## Dados de consumo
+leitura_atual=459
+leitura_anterior=424
+consumo_faturado=35.0
+media=40
+
+## Conta de energia eletrica
+valor_energia=15,75
+icms=12,00
+valor_conta=17,64
+

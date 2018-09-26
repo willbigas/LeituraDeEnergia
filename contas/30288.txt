@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=30288
+cliente=LEONEL APARECIDO TEIXEIRA
+tipo=Residencial
+
+## Dados de consumo
+leitura_atual=748
+leitura_anterior=728
+consumo_faturado=30.0
+media=30
+
+## Conta de energia eletrica
+valor_energia=13,50
+icms=12,00
+valor_conta=15,12
+

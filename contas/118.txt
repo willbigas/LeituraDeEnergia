@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=118
+cliente=S�O TOME CASAMENTOS LTDA
+tipo=Comercial
+
+## Dados de consumo
+leitura_atual=836
+leitura_anterior=701
+consumo_faturado=135.0
+media=119
+
+## Conta de energia eletrica
+valor_energia=75,60
+icms=14,00
+valor_conta=86,18
+

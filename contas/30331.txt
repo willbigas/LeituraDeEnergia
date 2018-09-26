@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=30331
+cliente=CLAUDECIR GUSTAVO FRANCISCO
+tipo=Residencial
+
+## Dados de consumo
+leitura_atual=391
+leitura_anterior=276
+consumo_faturado=115.0
+media=111
+
+## Conta de energia eletrica
+valor_energia=51,75
+icms=12,00
+valor_conta=57,96
+

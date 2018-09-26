@@ -1,0 +1,16 @@
+## Dados da unidade consumidora
+unidade=21359
+cliente=TEREZA GODOY FORMIGONI
+tipo=Residencial
+
+## Dados de consumo
+leitura_atual=2376
+leitura_anterior=2255
+consumo_faturado=121.0
+media=116
+
+## Conta de energia eletrica
+valor_energia=54,45
+icms=12,00
+valor_conta=60,98
+
